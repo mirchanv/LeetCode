@@ -8,7 +8,7 @@ class Solution {
                 i++;
             }
         }
-
+        
         return i + 1;
     }
 }
