@@ -14,15 +14,18 @@ class Solution {
             if (!myStack.isEmpty()) {
                 switch(currChar) {
                     case ')':
-                        if (myStack.pop() != '(') return false;
+                        if (myStack.pop() != '(') 
+                            return false;
                         break;
                     
                     case ']':
-                        if (myStack.pop() != '[') return false;
+                        if (myStack.pop() != '[') 
+                            return false;
                         break;
 
                     case '}':
-                        if (myStack.pop() != '{') return false;
+                        if (myStack.pop() != '{') 
+                            return false;
                         break;
                 }
             } else {
@@ -30,9 +33,10 @@ class Solution {
             }
         }
 
-        if (myStack.isEmpty()) 
+        if (myStack.isEmpty()) {
             return true;
-        else 
+        } else {
             return false;
+        }
     }
 }
