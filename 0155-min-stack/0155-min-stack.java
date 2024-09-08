@@ -10,13 +10,12 @@ class MinStack {
     
     public void push(int val) { 
         if (myStack.isEmpty()) {
-            myStack.push(val);
             minStack.push(val);
         } else {
-            myStack.push(val);
             int minVal = minStack.peek() < val ? minStack.peek() : val;
             minStack.push(minVal);
         }
+        myStack.push(val);
     }
     
     public void pop() {
