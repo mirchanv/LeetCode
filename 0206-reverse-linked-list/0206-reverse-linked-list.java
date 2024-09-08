@@ -14,6 +14,7 @@ class Solution {
         
         ListNode prev = null;
         ListNode curr = head;
+        
         while (curr != null) {
             ListNode next = curr.next;
             curr.next = prev;
