@@ -23,8 +23,16 @@ class Solution {
 
         while (temp1 != null || temp2 != null) {
             int sum = carry;
-            if (temp1 != null) sum += temp1.val;
-            if (temp2 != null) sum += temp2.val;
+            
+            if (temp1 != null) {
+                sum += temp1.val;
+                temp1 = temp1.next;
+            }
+
+            if (temp2 != null) {
+                sum += temp2.val;
+                temp2 = temp2.next;
+            }
 
             ListNode newNode;
             if (sum >= 10) {
@@ -38,9 +46,6 @@ class Solution {
 
             curr.next = newNode;
             curr = curr.next;
-
-            if (temp1 != null) temp1 = temp1.next;
-            if (temp2 != null) temp2 = temp2.next;
         }
 
         if (carry != 0) {
