@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mirchanv/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mirchanv/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/mirchanv/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/mirchanv/LeetCode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mirchanv/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mirchanv/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
