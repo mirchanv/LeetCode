@@ -20,8 +20,7 @@ class Solution {
         }
 
         if (curr == null) return null;
-        
-        head = curr;
+        else head = curr;
 
         while (curr != null) {
             if (curr.val == val) {
