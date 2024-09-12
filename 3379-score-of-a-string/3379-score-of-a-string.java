@@ -3,8 +3,8 @@ class Solution {
         int score = 0;
 
         for (int i = 0; i < s.length()-1; i++) {
-            int sumAdjacent = Math.abs(s.charAt(i) - s.charAt(i+1));
-            score += sumAdjacent;
+            score += Math.abs(s.charAt(i) - s.charAt(i+1));
+            
         }
 
         return score;
