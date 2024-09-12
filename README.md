@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mirchanv/LeetCode/tree/master/0020-valid-parentheses) |
+| [3379-score-of-a-string](https://github.com/mirchanv/LeetCode/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
 | ------- |
