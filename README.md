@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/mirchanv/LeetCode/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/mirchanv/LeetCode/tree/master/1013-fibonacci-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/mirchanv/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 ## Binary Search
 |  |
 | ------- |
