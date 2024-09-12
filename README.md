@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mirchanv/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mirchanv/LeetCode/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
+| [1580-shuffle-the-array](https://github.com/mirchanv/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/mirchanv/LeetCode/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/mirchanv/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/mirchanv/LeetCode/tree/master/2048-build-array-from-permutation) |
