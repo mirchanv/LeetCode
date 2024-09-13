@@ -4,8 +4,11 @@ class Solution {
 
         for (String word : words) {
             for (int i = 0; i < word.length(); i++) {
-                if (allowed.indexOf(word.charAt(i)) == -1) break;
-                if (i == word.length()-1) consistentStrings++;
+                if (allowed.indexOf(word.charAt(i)) == -1) 
+                    break;
+                    
+                if (i == word.length()-1) 
+                    consistentStrings++;
             }
         }
 
