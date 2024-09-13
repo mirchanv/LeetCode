@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/mirchanv/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1582-design-browser-history](https://github.com/mirchanv/LeetCode/tree/master/1582-design-browser-history) |
 | [1635-number-of-good-pairs](https://github.com/mirchanv/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mirchanv/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/mirchanv/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/mirchanv/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/mirchanv/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mirchanv/LeetCode/tree/master/0020-valid-parentheses) |
 | [0782-jewels-and-stones](https://github.com/mirchanv/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/mirchanv/LeetCode/tree/master/1205-defanging-an-ip-address) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mirchanv/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mirchanv/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/mirchanv/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/mirchanv/LeetCode/tree/master/3379-score-of-a-string) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [0782-jewels-and-stones](https://github.com/mirchanv/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/mirchanv/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mirchanv/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3412-permutation-difference-between-two-strings](https://github.com/mirchanv/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mirchanv/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/mirchanv/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mirchanv/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
 | ------- |
