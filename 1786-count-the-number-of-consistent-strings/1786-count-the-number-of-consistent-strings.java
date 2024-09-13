@@ -3,13 +3,15 @@ class Solution {
         int consistentStrings = 0;
 
         for (String word : words) {
+            boolean isConsistent = true;
             for (int i = 0; i < word.length(); i++) {
-                if (allowed.indexOf(word.charAt(i)) == -1) 
+                if (allowed.indexOf(word.charAt(i)) == -1) {
+                    isConsistent = false; 
                     break;
-                    
-                if (i == word.length()-1) 
-                    consistentStrings++;
+                }
             }
+
+            if (isConsistent) consistentStrings++;
         }
 
         return consistentStrings;
