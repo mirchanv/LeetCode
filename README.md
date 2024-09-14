@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mirchanv/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/mirchanv/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/mirchanv/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/mirchanv/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1582-design-browser-history](https://github.com/mirchanv/LeetCode/tree/master/1582-design-browser-history) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mirchanv/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/mirchanv/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/mirchanv/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0838-design-linked-list](https://github.com/mirchanv/LeetCode/tree/master/0838-design-linked-list) |
 | [1572-subrectangle-queries](https://github.com/mirchanv/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1582-design-browser-history](https://github.com/mirchanv/LeetCode/tree/master/1582-design-browser-history) |
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/mirchanv/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mirchanv/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
