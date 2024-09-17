@@ -9,17 +9,17 @@ class Solution {
             char rightChar = s.charAt(right);
 
             if (!Character.isLetterOrDigit(leftChar)) {
-				left++;
+		    left++;
             } else if (!Character.isLetterOrDigit(rightChar)) {
-				right--;
-			} else if (Character.toLowerCase(leftChar) == Character.toLowerCase(rightChar)) {
-				left++;
-				right--;
-			} else {
-				return false;
+		    right--;
+	    } else if (Character.toLowerCase(leftChar) == Character.toLowerCase(rightChar)) {
+		    left++;
+		    right--;
+	    } else {
+		    return false;
             }
         }
-
+	    
         return true;
     }
 }
