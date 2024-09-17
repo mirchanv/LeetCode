@@ -4,12 +4,9 @@ class Solution {
         int left = 0;
         int right = s.length()-1;
         
-        char leftChar;
-        char rightChar;
-        
         while (left < right) {
-            leftChar = s.charAt(left);
-            rightChar = s.charAt(right);
+            char leftChar = s.charAt(left);
+            char rightChar = s.charAt(right);
 
             if (!Character.isLetterOrDigit(leftChar))
 				left++;
