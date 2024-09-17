@@ -8,15 +8,16 @@ class Solution {
             char leftChar = s.charAt(left);
             char rightChar = s.charAt(right);
 
-            if (!Character.isLetterOrDigit(leftChar))
+            if (!Character.isLetterOrDigit(leftChar)) {
 				left++;
-			else if (!Character.isLetterOrDigit(rightChar))
+            } else if (!Character.isLetterOrDigit(rightChar)) {
 				right--;
-			else if (Character.toLowerCase(leftChar) == Character.toLowerCase(rightChar)) {
+			} else if (Character.toLowerCase(leftChar) == Character.toLowerCase(rightChar)) {
 				left++;
 				right--;
-			} else
+			} else {
 				return false;
+            }
         }
 
         return true;
