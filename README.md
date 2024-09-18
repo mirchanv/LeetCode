@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mirchanv/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mirchanv/LeetCode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/mirchanv/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mirchanv/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1572-subrectangle-queries](https://github.com/mirchanv/LeetCode/tree/master/1572-subrectangle-queries) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mirchanv/LeetCode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mirchanv/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mirchanv/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/mirchanv/LeetCode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mirchanv/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
