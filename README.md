@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mirchanv/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mirchanv/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mirchanv/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mirchanv/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mirchanv/LeetCode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mirchanv/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/mirchanv/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/mirchanv/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mirchanv/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/mirchanv/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mirchanv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/mirchanv/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/mirchanv/LeetCode/tree/master/1205-defanging-an-ip-address) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mirchanv/LeetCode/tree/master/0079-word-search) |
 | [1572-subrectangle-queries](https://github.com/mirchanv/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1791-richest-customer-wealth](https://github.com/mirchanv/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Number Theory
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/mirchanv/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/mirchanv/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mirchanv/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mirchanv/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/mirchanv/LeetCode/tree/master/0090-subsets-ii) |
 ## String Matching
 |  |
