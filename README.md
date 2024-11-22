@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mirchanv/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/mirchanv/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/mirchanv/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/mirchanv/LeetCode/tree/master/1635-number-of-good-pairs) |
