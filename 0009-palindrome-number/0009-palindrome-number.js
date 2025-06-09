@@ -3,17 +3,16 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
-    const numStr = String(x);
-    let left = 0;
-    let right = numStr.length - 1;
+    if (x < 0) return false; // handling -ve nums
 
-    while (left < right) {
-        if (numStr.charAt(left) != numStr.charAt(right)) {
-        return false;
-        }
+  let copyNum = x;
+  let reversedNum = 0;
 
-        left++;
-        right--;
-    }
-    return true;
+  while (copyNum > 0) {
+    let lastDigit = copyNum % 10;
+    reversedNum = reversedNum * 10 + lastDigit;
+    copyNum = Math.floor(copyNum / 10);
+  }
+
+  return reversedNum == x;
 };
