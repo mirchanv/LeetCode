@@ -3,14 +3,17 @@
  * @return {boolean}
  */
 var isPalindrome = function(x) {
+    const numStr = String(x);
+  let left = 0;
+  let right = numStr.length - 1;
 
-   let numCopy = +String(x).replace(/[^0-9]/g, '');
-   let reversed = "";
-   
-   while (numCopy != 0) {
-        reversed += numCopy % 10;
-        numCopy = Math.floor(numCopy / 10);
+  while (left < right) {
+    if (numStr.charAt(left) != numStr.charAt(right)) {
+      return false;
     }
-    
-    return x == +reversed; 
+
+    left++;
+    right--;
+  }
+  return true;
 };
