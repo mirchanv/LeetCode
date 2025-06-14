@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mirchanv/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mirchanv/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/mirchanv/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/mirchanv/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/mirchanv/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mirchanv/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Simulation
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mirchanv/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/mirchanv/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/mirchanv/LeetCode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/mirchanv/LeetCode/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/mirchanv/LeetCode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/mirchanv/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mirchanv/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
