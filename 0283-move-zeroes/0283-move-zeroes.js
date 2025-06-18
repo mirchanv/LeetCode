@@ -6,19 +6,14 @@ var moveZeroes = function(nums) {
     let p1 = 0;
     for (let i = 0; i < nums.length; i++) {
         if (nums[i] !== 0) {
-            nums[p1] = nums[i];
+            swap(nums, p1, i);
             p1++;
         }
     }
-    
-    for (let i = p1; i < nums.length; i++) {
-        console.log(i);
-        nums[i] = 0;
-    }
 };
 
-// const swap = function(arr, i, j) {
-//     const temp = arr[i];
-//     arr[i] = arr[j];
-//     arr[j] = temp;
-// }
+const swap = function(arr, i, j) {
+    const temp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = temp;
+}
