@@ -3,9 +3,9 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    let missingNum = 0;
+    let singleNum = 0;
     for (let i = 0; i < nums.length; i++) {
-        missingNum = missingNum ^ nums[i];
+        singleNum = singleNum ^ nums[i];
     }
-    return missingNum;
+    return singleNum;
 };
