@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mirchanv/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mirchanv/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/mirchanv/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mirchanv/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1572-subrectangle-queries](https://github.com/mirchanv/LeetCode/tree/master/1572-subrectangle-queries) |
 | [1580-shuffle-the-array](https://github.com/mirchanv/LeetCode/tree/master/1580-shuffle-the-array) |
