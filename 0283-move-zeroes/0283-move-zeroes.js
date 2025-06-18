@@ -6,8 +6,13 @@ var moveZeroes = function(nums) {
     let p1 = 0;
     for (let i = 0; i < nums.length; i++) {
         if (nums[i] !== 0) {
-            [nums[i], nums[p1]] = [nums[p1], nums[i]];
+            nums[p1] = nums[i];
             p1++;
         }
+    }
+
+    // filling remaining arrays elements with zeroes    
+    for (let i = p1; i < nums.length; i++) {
+        nums[i] = 0;
     }
 };
