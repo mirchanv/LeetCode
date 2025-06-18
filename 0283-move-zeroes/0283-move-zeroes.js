@@ -12,7 +12,6 @@ var moveZeroes = function(nums) {
     }
     
     for (let i = p1; i < nums.length; i++) {
-        console.log(i);
         nums[i] = 0;
     }
 };
