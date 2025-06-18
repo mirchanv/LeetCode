@@ -6,10 +6,7 @@ var missingNumber = function(nums) {
     let n = nums.length;
 
     // calculate sum of first n natural nums
-    let sumN = 0;
-    for (let i = 1; i <= n; i++) {
-        sumN += i;
-    }
+    let sumN = (n * (n + 1)) / 2;
     
     // calculate total sum in nums
     let sumNums = 0;
