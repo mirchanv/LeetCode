@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mirchanv/LeetCode/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/mirchanv/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/mirchanv/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/mirchanv/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mirchanv/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/mirchanv/LeetCode/tree/master/1013-fibonacci-number) |
 ## Hash Table
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/mirchanv/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mirchanv/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/mirchanv/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/mirchanv/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/mirchanv/LeetCode/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/mirchanv/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mirchanv/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/mirchanv/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/mirchanv/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/mirchanv/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/mirchanv/LeetCode/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mirchanv/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
